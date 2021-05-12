@@ -32,7 +32,7 @@
     "bootstrap-select": "^1.13.10",
     "bootstrap-slider": "^10.6.2",
     "c3": "^0.7.8",
-    "chart.js": "^2.5.0",
+    "chart.js": "^2.9.4",
     "compass-mixins": "^0.12.10",
     "compass-mixins-fixed": "^1.0.1",
     "d3": "^5.11.0",
